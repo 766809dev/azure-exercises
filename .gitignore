@@ -10,3 +10,11 @@ buildNumber.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+FeckinFlyers/.classpath
+FeckinFlyers/.project
+FeckinFlyers/README.md
+FeckinFlyers/.settings/org.eclipse.core.resources.prefs
+FeckinFlyers/.settings/org.eclipse.jdt.apt.core.prefs
+FeckinFlyers/.settings/org.eclipse.jdt.core.prefs
+FeckinFlyers/.settings/org.eclipse.m2e.core.prefs
+.vscode/settings.json
